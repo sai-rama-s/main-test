@@ -1,0 +1,15 @@
+tqdm
+numpy
+matplotlib
+opencv-python-headless
+scikit-image
+scipy 
+rasterio
+bm3d
+SLIP
+boto3
+pyproj
+requests
+shapely
+s2cloudless
+sentinelsat
